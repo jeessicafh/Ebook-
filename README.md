@@ -1,7 +1,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<> 📕Clique aqui para ler</a>
+<https://github.com/jeessicafh/Ebook-/blob/main/Ebook%20-%20Do%20zero%20ao%20topo_JH.pdf> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
