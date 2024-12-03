@@ -1,37 +1,17 @@
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
-seguem abaixo.
+Seu Primeiro PC: Do Zero ao Topo - eBook
+Bem-vindo ao repositório do eBook “Seu Primeiro PC: Do Zero ao Topo” ! Neste guia, você aprenderá de forma simples e direta como montar seu próprio computador, desde a escolha das peças até a instalação do sistema operacional.
 
-<https://github.com/jeessicafh/Ebook-/blob/main/Ebook%20-%20Do%20zero%20ao%20topo_JH.pdf> 📕Clique aqui para ler</a>
+Recursos Utilizados :
+ChatGPT : Auxilia na criação do roteiro e geração das imagens do eBook.
+PowerPoint : Usado para edição de conteúdo e organização das informações.
+Diagramação : Feita manualmente, garantindo uma leitura fluida e bem organizada.
+# Baixe o eBook!
 
-## 💻 Tecnologias utilizadas no projeto
+Clique no link abaixo para baixar o eBook **"Seu Primeiro PC: Do Zero ao Topo"**:
 
-- [ChatGPT](https://chat.openai.com/) 
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+[Baixar eBook em PDF](./nome-do-arquivo.pdf)
 
-## 🧠 Prompts
+Acompanhe o passo a passo e aprenda a montar seu PC com facilidade!
+Este eBook foi feito para quem quer aprender e transformar seu conhecimento em realidade. Divirta-se criando seu computador dos sonhos!
 
-
-ChatGPT：
-
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  |Crie um título de um ebook sobre o tema sobre montar seu próprio computador como um passo a passo, para pessoas que são da área da tecnologia e as que não são.
-O título tem que ser curto e épico. Me liste 5 variações de títulos                                                 |
-| conteúdo |Crie um texto falando sobre como montar um computador, quais peças escolher.
-{Regras}
-> O Texto tem que ser simples para qualquer pessoa entender
-> O texto tem que ser enxuto para não ser uma leitura cansativa 
-> Coloque resumidamente sobre as gerações de processadores, quais são mais rápidos, melhor desempenho
-> Crie 6 capítulos com título e subtítulo
-
-
-ChatGPT：
-
-|  Ação  | prompt                                                                                 |
-| :----: | -------------------------------------------------------------------------------------- |
-| título | Crie uma imagem com base no texto do ebook que você escreveu. |
-
-## ✨ Features
-
-- Conteúdo gerado via ChatGPT
-- Imagens geradas via ChatGPT
+Contato : (jeessicafh@hotmail.com)
