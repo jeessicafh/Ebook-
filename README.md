@@ -9,7 +9,8 @@ Diagramação : Feita manualmente, garantindo uma leitura fluida e bem organizad
 
 Clique no link abaixo para baixar o eBook **"Seu Primeiro PC: Do Zero ao Topo"**:
 
-[Baixar eBook em PDF](./nome-do-arquivo.pdf)
+[ebook - Do Zero ao Topo.pdf](https://github.com/user-attachments/files/17998661/ebook.-.Do.Zero.ao.Topo.pdf)
+
 
 Acompanhe o passo a passo e aprenda a montar seu PC com facilidade!
 Este eBook foi feito para quem quer aprender e transformar seu conhecimento em realidade. Divirta-se criando seu computador dos sonhos!
